@@ -70,7 +70,7 @@ crowd-density-estimator/
 
 ```bash
 git clone https://github.com/Shrishkd/crowd_density_estimator.git
-cd crowd-density-estimator
+cd crowd_density_estimator
 pip install ultralytics opencv-python numpy matplotlib
 ```
 
