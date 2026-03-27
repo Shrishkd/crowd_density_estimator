@@ -212,14 +212,8 @@ pip install ultralytics opencv-python numpy matplotlib
 
 ---
 
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.
-
----
-
 ## Acknowledgements
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) — detection model
 - [COCO Dataset](https://cocodataset.org) — pre-training data
-- VIT Bhopal University — Computer Vision course, 2024–25
+- VIT Bhopal University — Vityarthi Computer Vision course, 2024–25
