@@ -52,7 +52,7 @@ crowd-density-estimator/
 
 1. Open the notebook in Colab:
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shrishkd/crowd-density-estimator/blob/main/crowd_density_estimator.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shrishkd/crowd_density_estimator/blob/main/crowd_density_estimator.ipynb)
 
 2. Run **Cell 1** to install dependencies (~60 seconds)
 3. Run **Cell 2** to load configuration — edit thresholds if needed
@@ -69,7 +69,7 @@ crowd-density-estimator/
 **Requirements:** Python 3.9+
 
 ```bash
-git clone https://github.com/Shrishkd/crowd-density-estimator.git
+git clone https://github.com/Shrishkd/crowd_density_estimator.git
 cd crowd-density-estimator
 pip install ultralytics opencv-python numpy matplotlib
 ```
